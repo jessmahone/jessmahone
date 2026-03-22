@@ -10,7 +10,7 @@ Researcher turned analytics engineer. I spent 10+ years studying local news ecos
 Cleaned, normalized, and structured 16,000+ local news stories from 100 U.S. communities into a queryable database for research into local journalism health and content patterns.
 
 ### Tri-Cities News Analysis *(in progress)*
-Local news analysis for the Tri-Cities, TN/VA region and a pilot for an AI-assisted content classifier using Ollama and Llama 3.2.
+Local news analysis for the Tri-Cities, TN/VA region and a pilot for an AI-assisted content classifier using Python and Llama 3.2.
 
 ### News Classifier *(future)*
 A generalizable, locally-run LLM pipeline for categorizing local news content at scale.
