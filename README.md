@@ -6,7 +6,7 @@ Researcher turned analytics engineer. I spent 10+ years studying local news ecos
 
 ## 📚 Projects
 
-### [Local News · 100 Communities Database](https://github.com/jessicamahone/local-news-100-communities)
+### [100 Communities Local News Database](https://github.com/jessicamahone/local-news-100-communities)
 Cleaned, normalized, and structured 16,000+ local news stories from 100 U.S. communities into a queryable database for research into local journalism health and content patterns.
 
 ### Tri-Cities News Analysis *(in progress)*
