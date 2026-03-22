@@ -1,4 +1,4 @@
-# Hi, I'm Jessica. 
+# Hi, I'm Jessica. 👋
 
 Researcher turned analytics engineer. I spent 10+ years studying local news ecosystems, and somewhere along the way, I became more interested in *building the systems that make the research possible* than in the research itself.
 
@@ -26,7 +26,7 @@ A generalizable, locally-run LLM pipeline for categorizing local news content at
 
 ---
 
-## 👋 Connect with Me
+## 🤝 Connect with Me
 
 - [LinkedIn](https://linkedin.com/in/jessicamahone)
 - [jessmahonecodes@gmail.com](mailto:jessmahonecodes@gmail.com)
