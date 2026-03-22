@@ -1,4 +1,6 @@
-Hi, I'm Jessica. Researcher turned analytics engineer. I spent 15+ years studying local news ecosystems, and somewhere along the way, I became more interested in *building the systems that make the research possible* than in the research itself.
+# Hi, I'm Jessica. 
+
+Researcher turned analytics engineer. I spent 10+ years studying local news ecosystems, and somewhere along the way, I became more interested in *building the systems that make the research possible* than in the research itself.
 
 ---
 
