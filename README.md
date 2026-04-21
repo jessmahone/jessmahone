@@ -20,7 +20,7 @@ A generalizable, locally-run LLM pipeline for categorizing news content at scale
 ## 🛠️ Tools
 
 - **Languages:** SQL, R, Python
-- **Databases:** MySQL, PostgreSQL, SQLite
+- **Databases:** dbt, PostgreSQL, MySQL, SQLite
 - **Analysis & Visualization:** RMarkdown, Datawrapper, Tableau
 - **Other:** SPSS, Stata
 
