@@ -9,7 +9,7 @@ Researcher turned analytics engineer. I spent 10+ years studying local news ecos
 ### [100 Communities Local News Database](https://github.com/jessmahone/local_news_100_communities)
 Cleaned, normalized, and structured 16,000+ local news stories from 100 U.S. communities into a queryable database for research into local journalism health and content patterns.
 
-### Podcast Metadata Pipeline *(in progress)*
+### [Podcast Metadata Pipeline](https://github.com/jessmahone/podcast-metadata-pipeline) *(in progress)*
 A dbt + PostgreSQL content metadata pipeline built on Podcast Index API data
 
 ### News Classifier *(future)*
